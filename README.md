@@ -1,8 +1,10 @@
+# UNIVERSITY OF CONNECTICUT STUDENT RETENTION RATE ANALYSIS PORTFOLIO
+
 Based on the student retention analysis presentation provided, I would showcase key aspects in a data analytics portfolio:
 
 Data Preparation:
-Handling redundancies and merging datasets while maintaining integrity
-Techniques like pivoting, grouping, exclusion to consolidate data
+- Handling redundancies and merging datasets while maintaining integrity-
+- Techniques like pivoting, grouping, exclusion to consolidate data
 
 Exploratory Analysis:
 Use of SEMMA framework to sample, explore and understand the data
